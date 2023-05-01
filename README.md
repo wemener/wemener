@@ -37,9 +37,11 @@
 
 <h3 align="left">📈 Some Stats (Org info not visible):</h3>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wemener&count_private=true&show_icons=true&theme=material-palenight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wemener&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wemener&" alt="wemener" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wemener)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/wemener/wemener/blob/output/github-contribution-grid-snake.svg)
 
