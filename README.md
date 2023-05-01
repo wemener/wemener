@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **IT Ops, IT Engineering, Windows & MacOS Administration, All the SaaS Apps**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/william-emener-93a27422/)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/william-emener-93a27422/)
 
 - ⚡ Fun fact **Father of 2, Boxing, Muay Thai and BJJ practitioner**
 
@@ -36,7 +36,7 @@
 ---
 
 <h3 align="left">📈 Some Stats (Org info not visible):</h3>
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wemener&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[!(https://github-readme-stats.vercel.app/api?username=wemener&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wemener&" alt="wemener" /></p>
 
