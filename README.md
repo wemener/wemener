@@ -35,7 +35,7 @@
 
 ---
 
-<h3 align="left">📈 Some Stats (Org info not visible):</h3>
+<h3 align="left">📈 Some Stats (Work specific info not visible):</h3>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wemener&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
